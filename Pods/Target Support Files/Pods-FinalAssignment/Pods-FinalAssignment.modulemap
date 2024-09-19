@@ -1,0 +1,6 @@
+framework module Pods_FinalAssignment {
+  umbrella header "Pods-FinalAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
